@@ -1,0 +1,16 @@
+/* Properties which are inherited by the child element*/
+
+
+
+/* Properties which are not inherited by the child element */
+body{
+  font-family:'Times New Roman', Times, serif;
+  font-size:medium ;
+  color:blue;
+  
+}
+body{
+  background-color:rgb(153, 143, 143) ;
+  border:20px ;
+
+}
